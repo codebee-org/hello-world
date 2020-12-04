@@ -1,0 +1,1497 @@
+[{
+        "name": "Ads",
+        "code": "ADS",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "njogaikar",
+                "isPrimary": true
+            },
+			{
+				"slug": "tbarker"
+			}
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "shogg"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba`"
+            }
+        ],
+        "excludeStashProcessing": false
+    },
+    {
+        "name": "Alerting",
+        "code": "ALERT",
+        "platformLeads": [{
+                "slug": "jkropa",
+                "isPrimary": true
+            },
+            {
+                "slug": "jduong"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "cgrimmett"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Audit",
+        "code": "AUD",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "njogaikar",
+                "isPrimary": true
+            },
+            {
+                "slug": "tbarker"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "cgrimmett",
+				"isPrimary": true
+			},
+            {
+                "slug": "mbennett"
+            }
+		],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "AuthN",
+        "code": "AUTHN",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "shogg",
+				"isPrimary": true
+			},
+            {
+                "slug": "ashi"
+            }
+		],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "AuthZ",
+        "code": "AZ",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "shogg",
+				"isPrimary": true
+			},
+            {
+                "slug": "cgrimmett"
+            }
+		],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Billing",
+        "code": "BILL",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "rbhatia"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "BusTech",
+        "code": "BT",
+        "platformLeads": [{
+                "slug": "ssharma",
+                "isPrimary": true
+            },
+            {
+                "slug": "mtividad"
+            }
+        ],
+        "testLeads": [{
+				"slug": "njogaikar",
+				"isPrimary": true
+			},
+            {
+                "slug": "tbarker"
+            }],
+        "uiLeads": [{
+				"slug": "cgrimmett",
+				"isPrimary": true
+			},
+            {
+                "slug": "mbennett"
+            }
+		],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "Ccda",
+        "code": "CCDA",
+        "platformLeads": [{
+                "slug": "bhorrillo",
+                "isPrimary": true
+            },
+            {
+                "slug": "jkropa"
+            }
+        ],
+        "testLeads": [{
+                "slug": "psethuraman",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhong"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "shogg"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "CDP",
+        "code": "CDP",
+        "platformLeads": [{
+                "slug": "jkropa",
+                "isPrimary": true
+            },
+			{
+				"slug": "jduong"
+			}
+        ],
+        "testLeads": [{
+                "slug": "mranga",
+                "isPrimary": true
+            },
+            {
+                "slug": "mrudakov"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "mbennett"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ],
+        "observers": [{
+                "slug": "mranga"
+            }
+        ]
+    },
+    {
+        "name": "Charting",
+        "code": "CHAR",
+        "platformLeads": [{
+                "slug": "lkrystof",
+                "isPrimary": true
+            },
+            {
+                "slug": "jkropa"
+            }
+        ],
+        "testLeads": [{
+                "slug": "bhong",
+                "isPrimary": true
+            },
+            {
+                "slug": "tbarker"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "ashi"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Clinical",
+        "code": "CLIN",
+        "platformLeads": [{
+                "slug": "lkrystof",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhorrillo"
+            }
+        ],
+        "testLeads": [{
+                "slug": "bhong",
+                "isPrimary": true
+            },
+            {
+                "slug": "psethuraman"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "mbennett"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Collaboration",
+        "code": "COL",
+        "platformLeads": [{
+                "slug": "agoodman",
+                "isPrimary": true
+            },
+            {
+                "slug": "kyadav"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Consumer",
+        "code": "CON",
+        "platformLeads": [{
+                "slug": "kyadav",
+                "isPrimary": true
+            },
+            {
+                "slug": "rbhatia"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mranga",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ],
+        "excludeStashProcessing": true
+    },
+    {
+        "name": "Cryptography",
+        "code": "CRYPTOGRAPHY",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "mbennett",
+				"isPrimary": true
+			},
+            {
+                "slug": "cgrimmett"
+            }
+		],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "DataMigration",
+        "code": "DATAMIG",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "njogaikar",
+                "isPrimary": true
+            },
+            {
+                "slug": "tbarker"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "cgrimmett"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Documents",
+        "code": "DOCS",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Flighting",
+        "code": "FLT",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "jcarter"
+            }
+        ],
+        "testLeads": [{
+                "slug": "njogaikar",
+                "isPrimary": true
+            },
+            {
+                "slug": "tbarker"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "cgrimmett",
+				"isPrimary": true
+			},
+            {
+                "slug": "shogg"
+            }
+		],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "Flowsheets",
+        "code": "FLOW",
+        "platformLeads": [{
+                "slug": "bhorrillo",
+                "isPrimary": true
+            },
+            {
+                "slug": "lkrystof"
+            }
+        ],
+        "testLeads": [{
+                "slug": "psethuraman",
+                "isPrimary": true
+            },
+            {
+                "slug": "spugh"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "ashi"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Formulary",
+        "code": "FORMULARY",
+        "platformLeads": [{
+                "slug": "kkimbrough",
+                "isPrimary": true
+            },
+            {
+                "slug": "lkrystof"
+            }
+        ],
+        "testLeads": [{
+                "slug": "bhong",
+                "isPrimary": true
+            },
+            {
+                "slug": "psethuraman"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "mbennett",
+				"isPrimary": true
+			},
+            {
+                "slug": "shogg"
+			}
+		],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Immunizations",
+        "code": "IMZ",
+        "platformLeads": [{
+                "slug": "bhorrillo",
+                "isPrimary": true
+            },
+            {
+                "slug": "jduong"
+            }
+        ],
+        "testLeads": [{
+                "slug": "palak.goel",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhong"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "ashi"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "Labs",
+        "code": "LABS",
+        "platformLeads": [{
+                "slug": "jduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhorrillo"
+            }
+        ],
+        "testLeads": [{
+                "slug": "psethuraman",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhong"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "mbennett"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "MedRx",
+        "code": "MED",
+        "platformLeads": [{
+                "slug": "kkimbrough",
+                "isPrimary": true
+            },
+            {
+                "slug": "lkrystof"
+            }
+        ],
+        "testLeads": [{
+                "slug": "bhong",
+                "isPrimary": true
+            },
+            {
+                "slug": "psethuraman"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "mbennett",
+				"isPrimary": true
+			},
+            {
+                "slug": "shogg"
+            }
+		],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Messaging",
+        "code": "MESS",
+        "platformLeads": [{
+                "slug": "agoodman",
+                "isPrimary": true
+            },
+            {
+                "slug": "kyadav"
+            }
+        ],
+        "testLeads": [{
+                "slug": "palak.goel",
+                "isPrimary": true
+            },
+            {
+                "slug": "mrudakov"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Notifications",
+        "code": "NOTIFICATIONS",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "njogaikar",
+                "isPrimary": true
+            },
+            {
+                "slug": "tbarker"
+            }
+        ],
+        "uiLeads": [{
+            "slug": "cgrimmett",
+            "isPrimary": true
+        },
+		{
+            "slug": "mbennett"
+        }],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Observations",
+        "code": "OBSRV",
+        "platformLeads": [{
+                "slug": "bhorrillo",
+                "isPrimary": true
+            },
+            {
+                "slug": "lkrystof"
+            }
+        ],
+        "testLeads": [{
+                "slug": "psethuraman",
+                "isPrimary": true
+            },
+            {
+                "slug": "spugh"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "shogg"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Ordering",
+        "code": "ORD",
+        "platformLeads": [{
+                "slug": "jduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhorrillo"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            }
+        ],
+        "uiLeads": [{
+                "slug": "shogg",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "PartnerMessaging",
+        "code": "PM",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "cgrimmett",
+				"isPrimary": true
+			},
+            {
+                "slug": "mbennett"
+            }
+		],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ],
+        "excludeTestCycleGeneration": true
+    },
+    {
+        "name": "Patient",
+        "code": "PAT",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mranga",
+                "isPrimary": true
+            },
+            {
+                "slug": "mrudakov"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Payer",
+        "code": "PAY",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "rbhatia"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "mporemba",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "Platform",
+        "code": "PA",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            },
+            {
+                "slug": "lkrystof"
+            },
+            {
+                "slug": "jcarter"
+            },
+            {
+                "slug": "kkimbrough"
+            },
+            {
+                "slug": "jduong"
+            },
+            {
+                "slug": "bhorrillo"
+            },
+            {
+                "slug": "vduong"
+            },
+            {
+                "slug": "jkropa"
+            },
+            {
+                "slug": "rbhatia"
+            },
+            {
+                "slug": "kyadav"
+            },
+            {
+                "slug": "fmansoor"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "mbennett",
+                "isPrimary": true
+            },
+            {
+                "slug": "shogg"
+            },
+            {
+                "slug": "ctownley"
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+
+        ],
+        "dataLeads": [{
+				"slug": "mporemba",
+				"isPrimary": true
+			},
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "Practice",
+        "code": "PRAC",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "kkimbrough"
+            }
+        ],
+        "testLeads": [{
+                "slug": "jshaver",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Profile",
+        "code": "PROFILE",
+        "platformLeads": [{
+                "slug": "vduong",
+                "isPrimary": true
+            },
+            {
+                "slug": "kyadav"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mranga",
+                "isPrimary": true
+            },
+            {
+                "slug": "mrudakov"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "ctownley",
+				"isPrimary": true
+			},
+            {
+                "slug": "jdahlstrom"
+            }
+		],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "arobertson"
+            }
+        ]
+    },
+    {
+        "name": "ProviderDirectory",
+        "code": "PROVD",
+        "platformLeads": [{
+                "slug": "kyadav",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "PublicAPI",
+        "code": "PAPI",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            },
+            {
+                "slug": "fmansoor"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+            "slug": "cgrimmett",
+            "isPrimary": true
+        },
+		{
+            "slug": "mbennett",
+            "isPrimary": true
+        }],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "hari.ramamurthy"
+            }
+		],
+        "excludeTestCycleGeneration": true
+    },
+    {
+        "name": "Referrals",
+        "code": "REF",
+        "platformLeads": [{
+                "slug": "rbhatia",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mrudakov",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "RxAdherence",
+        "code": "RXADHERENCE",
+        "platformLeads": [{
+                "slug": "kkimbrough",
+                "isPrimary": true
+            },
+            {
+                "slug": "bhorrillo"
+            }
+        ],
+        "testLeads": [{
+                "slug": "bhong",
+                "isPrimary": true
+            },
+            {
+                "slug": "psethuraman"
+            }
+        ],
+        "uiLeads": [{
+				"slug": "mbennett",
+				"isPrimary": true
+			},
+            {
+                "slug": "shogg"
+            }
+		],
+        "dataLeads": [{
+                "slug": "arobertson",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Scheduling",
+        "code": "SCHED",
+        "platformLeads": [{
+                "slug": "kyadav",
+                "isPrimary": true
+            },
+            {
+                "slug": "vduong"
+            }
+        ],
+        "testLeads": [{
+                "slug": "palak.goel",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "jdahlstrom",
+                "isPrimary": true
+            },
+            {
+                "slug": "ctownley"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Shared",
+        "code": "SHARED",
+        "platformLeads": [],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            }
+        ],
+        "uiLeads": [],
+        "dataLeads": [],
+        "excludeStashProcessing": true
+    },
+    {
+        "name": "Subscription",
+        "code": "SUBSCRIPTION",
+        "platformLeads": [{
+                "slug": "agoodman",
+                "isPrimary": true
+            },
+            {
+                "slug": "rbhatia"
+            }
+        ],
+        "testLeads": [{
+                "slug": "palak.goel",
+                "isPrimary": true
+            },
+            {
+                "slug": "mranga"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    },
+    {
+        "name": "Switchboard",
+        "code": "SWBD",
+        "platformLeads": [{
+                "slug": "Alexander.Dove",
+                "isPrimary": true
+            },
+            {
+                "slug": "Randy.Wilkinson"
+            }
+        ],
+        "testLeads": [{
+                "slug": "tbarker",
+                "isPrimary": true
+            },
+            {
+                "slug": "njogaikar"
+            }
+        ],
+        "uiLeads": [{
+            "slug": "cgrimmett",
+            "isPrimary": true
+			},
+            {
+                "slug": "shogg"
+            }
+		],
+        "dataLeads": [{
+            "slug": "mporemba",
+            "isPrimary": true
+        },
+            {
+                "slug": "hari.ramamurthy"
+            }
+        ]
+    },
+    {
+        "name": "Tasks",
+        "code": "TASK",
+        "platformLeads": [{
+                "slug": "kkimbrough",
+                "isPrimary": true
+            },
+            {
+                "slug": "agoodman"
+            }
+        ],
+        "testLeads": [{
+                "slug": "mranga",
+                "isPrimary": true
+            },
+            {
+                "slug": "mrudakov"
+            }
+        ],
+        "uiLeads": [{
+                "slug": "ctownley",
+                "isPrimary": true
+            },
+            {
+                "slug": "jdahlstrom"
+            }
+        ],
+        "dataLeads": [{
+                "slug": "hari.ramamurthy",
+                "isPrimary": true
+            },
+            {
+                "slug": "mporemba"
+            }
+        ]
+    }
+]
